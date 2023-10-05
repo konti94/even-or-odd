@@ -2,7 +2,7 @@
 
 ## Feladat
 
-### Készíts egy függvényt
+Készíts egy függvényt
 
 -   a függvény bemenete egyetlen string típusú paraméter, mely számokat, plusz
     és kötőjelet tartalmazhat (Példa a string-re: “2+112+48-14+43-361-0+454”)
