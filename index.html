@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="hu">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+		<title>Páros vagy páratlan</title>
+		<link rel="stylesheet" href="style.css" />
+	</head>
+	<body>
+		<h1>Páros vagy páratlan</h1>
+		<p class="headline">
+			Kérlek adj meg az alábbi példa bemenethez hasonló stringet.
+		</p>
+		<p class="headline">
+			Példa:
+			<span class="highlighted-example">2+112+48-14+43-361-0+454</span>
+		</p>
+		<div class="input-wrapper">
+			<label for="inputString">Bemenet</label>
+			<input type="text" name="" id="inputString" />
+			<span class="error-message">Hibás bemenet! Próbálkozz újra!</span>
+		</div>
+		<button type="button" id="submit">Küldés</button>
+		<h2>Eredmény</h2>
+		<p class="result-text">
+			A bemenetként megadott művelet eredménye egy
+			<span id="result">ismeretlen</span> szám.
+		</p>
+		<script src="app.js"></script>
+	</body>
+</html>
