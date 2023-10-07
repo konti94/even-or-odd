@@ -11,4 +11,4 @@ Készíts egy függvényt
 
 ## Megoldás
 
-HTML, CSS és natív Javascript segítségével elkészítettem a függvényt, illetve adtam hozzá frontend oldalról egy kis egyszerű megjelenítést.
+HTML, CSS és Typescript segítségével elkészítettem a függvényt, illetve adtam hozzá frontend oldalról egy kis egyszerű megjelenítést.
